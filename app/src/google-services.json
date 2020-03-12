@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "723791890864",
+    "firebase_url": "https://icam-5e9c7.firebaseio.com",
+    "project_id": "icam-5e9c7",
+    "storage_bucket": "icam-5e9c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723791890864:android:e235fe4c0be899d0236e75",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723791890864-cbf3sjrukpash1auurl5i08grjiljr1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4T3yad4_lWw__GDebg-F89tfHd09EvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723791890864-cbf3sjrukpash1auurl5i08grjiljr1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
